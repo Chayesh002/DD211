@@ -1,0 +1,16 @@
+{
+  "name": "com.boilerroom.dd211",
+  "displayName": "DD 211",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "DD 211 Drilling machine, prefabs, and Unity-friendly models.",
+  "keywords": ["Machine", "DD211", "Mining"],
+  "author": {
+    "name": "Ethan Naidoo",
+    "email": "ethan@boilerroom.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://boilerroom.visualstudio.com/DD211_Package/_git/DD211_Package"
+  }
+}
